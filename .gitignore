@@ -4,3 +4,8 @@
 */cache/*
 */cache/!index.html
 */cache/!.htaccess
+/system/
+/user_guide/
+/license.txt
+/readme.rst
+/Guideme Cms.clpprj
